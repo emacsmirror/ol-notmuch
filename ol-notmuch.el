@@ -142,5 +142,6 @@ Can link to more than one message, if so all matching messages are shown."
 (provide 'ol-notmuch)
 ;; Local Variables:
 ;; indent-tabs-mode: nil
+;; lisp-indent-local-overrides: ((cond . 0) (interactive . 0))
 ;; End:
 ;;; ol-notmuch.el ends here
